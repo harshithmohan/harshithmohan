@@ -18,3 +18,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_activity: true
+          plugin_languages: true
