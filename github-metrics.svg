@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.72mb of code in 2869 edited files across 517 commits</small>
+                <small>estimation from 2.73mb of code in 2879 edited files across 518 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.25849237836707" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="346.25849237836707" y="0" width="105.55237419085404" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="451.8108665692211" y="0" width="3.736863645855084" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.54773021507623" y="0" width="2.1189392357485906" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.66666945082477" y="0" width="1.879189809981207" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.54585926080597" y="0" width="0.2896972228022552" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.83555648360823" y="0" width="0.0960534558362915" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.93160993944457" y="0" width="0.06839006055543956" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.8187031656216" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="346.8187031656216" y="0" width="105.03249732374981" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="451.8512004893715" y="0" width="3.7184584798898914" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.56965896926135" y="0" width="2.1085028291787733" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.67816179844016" y="0" width="1.8699342407095885" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.5480960391497" y="0" width="0.2882703777335984" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.8363664168833" y="0" width="0.095580363970026" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.93194678085337" y="0" width="0.06805321914665852" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -239,7 +239,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>75.27%</div>
+                                <div>75.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -285,7 +285,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>22.95%</div>
+                                <div>22.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2361,7 +2361,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2026, 22:48:18 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Aug 2026, 23:49:00 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
